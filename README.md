@@ -3,4 +3,4 @@
 
 1.Demo 中的效果不太好,项目种效果更好
 
-![Demo 中效果图](http://upload-images.jianshu.io/upload_images/1242073-a412b4f6a4a5ea67.gif?imageMogr2/auto-orient/strip)
+![Demo 中效果图](http://upload-images.jianshu.io/upload_images/1242073-827bd122138c65ca.gif?imageMogr2/auto-orient/strip)
